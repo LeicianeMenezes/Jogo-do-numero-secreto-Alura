@@ -1,24 +1,23 @@
-🎮 Jogo de Adivinhação - Número Secreto
-Este é um jogo simples de adivinhação de números, desenvolvido com HTML, CSS e JavaScript. O objetivo do jogador é tentar adivinhar um número secreto gerado aleatoriamente entre 1 e 10.
+# 🎯 Jogo do Número Secreto  
 
-🚀 Como jogar
-Digite um número entre 1 e 10 no campo de entrada.
-Clique no botão "Chutar" para verificar se acertou.
-O jogo informará se o número digitado é maior ou menor que o número secreto.
-Continue tentando até acertar!
-Ao acertar, o botão "Novo Jogo" será ativado para iniciar uma nova rodada.
+Um jogo interativo onde o jogador precisa adivinhar um número secreto gerado aleatoriamente.  
 
-🎨 Estilo Retro
-O jogo possui um design inspirado em jogos clássicos, com botões estilizados na fonte "Press Start 2P", dando um toque retrô à experiência.
+## 🕹️ Como funciona?  
+- O jogo escolhe um número secreto entre **1 e 10**.  
+- O jogador insere um palpite e recebe dicas se o número secreto é **maior** ou **menor**.  
+- Ao acertar, o jogo exibe a quantidade de tentativas e permite reiniciar a partida.  
+- O jogo conta com uma interface moderna e efeitos sonoros para melhorar a experiência!  
 
-🛠️ Tecnologias utilizadas
-HTML → Estrutura do jogo.
-CSS → Estilização com gradientes e animações.
-JavaScript → Lógica do jogo, geração do número aleatório e interações.
-📷 Preview
-![[Imagem do Jogo secreto ](https://github.com/user-attachments/assets/15e40e7e-fa00-4c08-9b93-4c0e69844b02)
+## 📷 Captura de Tela  
+![Captura de Tela (8)](https://github.com/user-attachments/assets/2be96925-96ff-4d8e-83ef-3364fd3503bc)
 
-📌 Como executar o projeto
-Baixe ou clone este repositório.
-Abra o arquivo index.html em um navegador.
-Divirta-se jogando! 🎲🎉
+## 🚀 Tecnologias utilizadas  
+- HTML5  
+- CSS3  
+- JavaScript  
+- [ResponsiveVoice.js](https://responsivevoice.org/) para síntese de voz  
+
+## 📌 Como jogar?  
+1. Clone este repositório:  
+   ```bash
+   git clone https://github.com/LeicianeMenezes/Jogo-do-numero-secreto-Alura.git
