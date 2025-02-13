@@ -8,7 +8,7 @@ Um jogo interativo onde o jogador precisa adivinhar um número secreto gerado al
 - Ao acertar, o jogo exibe a quantidade de tentativas e permite reiniciar a partida.  
 - O jogo conta com uma interface moderna e efeitos sonoros para melhorar a experiência!  
 
-## 📷 Captura de Tela  
+## 📷  Preview 
 ![Captura de Tela (8)](https://github.com/user-attachments/assets/2be96925-96ff-4d8e-83ef-3364fd3503bc)
 
 ## 🚀 Tecnologias utilizadas  
